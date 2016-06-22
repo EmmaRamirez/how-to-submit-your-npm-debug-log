@@ -2,7 +2,7 @@
 
 1. So you're using npm, and then suddenly, this totally uncool text appears on your terminal.
 
-![terminal](./terminal.jpg)
+![terminal](https://github.com/EmmaRamirez/how-to-submit-your-npm-debug-log/blob/master/terminal.png)
 
 2. The first step here is to try to fix the error yourself! Check out the [troubleshooting](https://github.com/npm/npm/wiki/Troubleshooting) guide for help. As always, [stackoverflow](https://stackoverflow.com/questions/tagged/npm) is a great place to check if other people have had the same problem.
 
